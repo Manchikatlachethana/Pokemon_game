@@ -5,7 +5,7 @@
  - Including strong pokemons.
  -  Single Player Mode.
  - Played against best oppenents..
- - Game Difiiculty:Medium.
+ - Game Difficulty:Medium.
  - Repeated play mode availabe.
  - :point_right:  Lastly have fun!:smile:
 ## Steps To Be Followed

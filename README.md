@@ -4,7 +4,7 @@
  - First version.
  - Including strong pokemons.
  -  Single Player Mode.
- - Played against best oppenents..
+ - Played against best opponents..
  - Game Difficulty:Medium.
  - Repeated play mode availabe.
  - :point_right:  Lastly have fun!:smile:
